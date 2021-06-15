@@ -124,6 +124,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+                <finalName>gestioncours</finalName>
 	</build>
 
 </project>
